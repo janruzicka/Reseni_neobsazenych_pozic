@@ -1,0 +1,43 @@
+# Interaktivní Prezentace HR Konzultační Služby
+
+## Úvod
+Tato jednostránková interaktivní webová aplikace (SPA) slouží jako dynamická prezentace mé poradenské služby zaměřené na řešení dlouhodobě neobsazených IT pozic. Cílem aplikace je pomoci potenciálním klientům identifikovat jejich specifické náborové problémy a vizuálně jim představit můj unikátní analytický přístup a přínosy komplexního řešení.
+
+## Funkce
+Aplikace je navržena jako intuitivní cesta, která uživatele provede klíčovými aspekty služby:
+* **Interaktivní "Kontrola Symptomů":** Uživatelé mohou označit výzvy v náboru, které u nich rezonují.
+* **Detailní Metodika:** Rozklikávací sekce popisující můj čtyřfázový analytický přístup k řešení problému, včetně přenosu know-how.
+* **Vizuální Ukázka Výstupu:** Interaktivní graf (Doughnut Chart) simulující analýzu zdrojů náboru, ukazující typ datového výstupu, který klient získá.
+* **Přehled Klíčových Přínosů:** Sekce objasňující mé jedinečné prodejní argumenty a hodnotu spolupráce.
+* **Přímá Výzva k Akci:** Snadný přístup k informacím pro nezávaznou konzultaci.
+
+## Technologie
+Aplikace je postavena na moderních webových technologiích pro zajištění rychlosti, responzivity a interaktivity:
+* **HTML5:** Základní struktura stránky.
+* **Tailwind CSS:** Pro rychlý a responzivní design, zajišťující adaptabilitu na různých zařízeních (desktop, tablet, mobil).
+* **JavaScript (Vanilla JS):** Pro veškerou interaktivní logiku, jako je výběr symptomů a rozbalovací panely.
+* **Chart.js:** JavaScriptová knihovna pro generování dynamických a responzivních datových vizualizací (grafů) přímo na Canvasu.
+
+## Jak aplikaci spustit
+Aplikace je jednostránková a nevyžaduje žádné složité nastavení ani backend. Stačí otevřít soubor `index.html` ve webovém prohlížeči.
+
+1.  Naklonujte tento repozitář:
+    ```bash
+    git clone [https://github.com/vas-uzivatel/vas-nazev-repozitare.git](https://github.com/vas-uzivatel/vas-nazev-repozitare.git)
+    ```
+2.  Přejděte do složky repozitáře:
+    ```bash
+    cd vas-nazev-repozitare
+    ```
+3.  Otevřete soubor `index.html` ve svém preferovaném webovém prohlížeči.
+
+## Kontaktní informace
+Máte-li dotazy k aplikaci nebo k nabízené konzultační službě, neváhejte mě kontaktovat:
+* **E-mail:** [Váš e-mail]
+* **LinkedIn:** [Odkaz na váš LinkedIn profil]
+* **Telefon:** [Vaše telefonní číslo]
+
+---
+
+## Licence
+Tento projekt je licencován pod [Zde doplňte typ licence, např. MIT License] - více informací naleznete v souboru [LICENSE](LICENSE) (pokud jej vytvoříte).
